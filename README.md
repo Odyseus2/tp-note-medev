@@ -1,2 +1,5 @@
 # tp-note-medev
-TP Noté MEDEV
+TP Noté MEDEV du groupe 5
+
+Ulysse LACOUSTILLE
+Corentin POULET 
